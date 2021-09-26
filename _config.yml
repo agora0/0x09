@@ -1,6 +1,6 @@
 title: The Republic of Agora
-description: EMPOWER THE PUBLIC ♢ VOL.8 © MMXXI
-baseurl: "/pen/0x08" # the subpath of your site, e.g. /blog
+description: EMPOWER THE PUBLIC ♢ VOL.9 © MMXXI
+baseurl: "/pen/0x09" # the subpath of your site, e.g. /blog
 url: "https://agora0.gitlab.io" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: 'UA-166928354-2' # agorahub-pen0
 gh_team: orgs/agorahub/teams/pen
